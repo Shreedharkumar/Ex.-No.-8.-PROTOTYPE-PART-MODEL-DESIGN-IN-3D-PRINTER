@@ -52,8 +52,8 @@
 
 
 
-### Name: K.Preetha
-### Register Number: 212224100044
+### Name: Shreedhar Kumar K.J
+### Register Number: 212224230265
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
